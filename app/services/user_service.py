@@ -36,3 +36,9 @@ async def get_users_by_channel(channel_id: str):
             select(User).where(User.channel_id == channel_id)
         )
         return result.scalars().all()
+
+
+async def get_all_users():
+    async with SessionLocal() as session:
+        result = await session.execute(select(User))
+        return result.scalars().all()
