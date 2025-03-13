@@ -17,7 +17,7 @@ async def main():
 
     dp.include_router(funnel_setup.router)
     dp.include_router(join_request.router)
-    # dp.include_router(broadcast.router)
+    dp.include_router(broadcast.router)
 
     await dp.start_polling(bot)
 

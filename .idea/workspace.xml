@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d53c4ee2-63cb-4f75-be11-421e73742455" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,8 @@
       <workItem from="1741823054314" duration="2135000" />
       <workItem from="1741826726214" duration="1295000" />
       <workItem from="1741849067964" duration="31000" />
-      <workItem from="1741878098919" duration="395000" />
+      <workItem from="1741878098919" duration="487000" />
+      <workItem from="1741878774846" duration="6000" />
     </task>
     <servers />
   </component>
