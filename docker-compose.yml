@@ -7,5 +7,7 @@ services:
     env_file: .env
     volumes:
       - ./:/app
+    environment:
+      - PYTHONPATH=/app
     command: ["python", "app/main.py"]
     restart: always

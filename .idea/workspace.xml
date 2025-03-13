@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53c4ee2-63cb-4f75-be11-421e73742455" name="Changes" comment="" />
+    <list default="true" id="d53c4ee2-63cb-4f75-be11-421e73742455" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -32,6 +37,7 @@
     "Python.main.executor": "Run",
     "Python.sync_members.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/admin/PycharmProjects/funnel",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +111,7 @@
       <workItem from="1741752563437" duration="5542000" />
       <workItem from="1741761385486" duration="1872000" />
       <workItem from="1741794754519" duration="5000" />
-      <workItem from="1741823054314" duration="1496000" />
+      <workItem from="1741823054314" duration="2135000" />
     </task>
     <servers />
   </component>
